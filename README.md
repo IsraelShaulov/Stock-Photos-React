@@ -8,7 +8,7 @@
 - **Search form** to query for a specific category of images when filled it and press the search icon or enter to submit. The additional functionality is when input is given without submitting and continues scrolling the input-related images will be shown from the following page along with the previous pages. 
 - To run the project locally, clone the repo, `npm install` to install the dependencies, and `npm start` to start up the development server on default port 3000.
 
-#### Languages 
+#### Languages / Technologies / Libraries
 HTML, CSS, JavaScript,React - Hooks ~ useState, useEffect, useRef , Axios, React-Icons
 
 #### API Endpoint
